@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="JLayer">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/jlayer1.0.1/JLayer1.0.1/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/jlayer1.0.1/JLayer1.0.1/src" />
+    </SOURCES>
+  </library>
+</component>

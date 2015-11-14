@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/fumitti/vfdlib/BitmapChar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/fumitti/vfdlib/Reader/DBReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/fumitti/vfdlib/Reader/NowPlaying.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/fumitti/vfdlib/Reader/gooTrainInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/fumitti/vfdlib/Reader/timeSignal.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/fumitti/vfdlib/Reader/twitterUN_NERV.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/fumitti/vfdlib/VFDNewsPanel.java" charset="UTF-8" />
+  </component>
+</project>

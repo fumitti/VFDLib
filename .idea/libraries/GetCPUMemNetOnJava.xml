@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GetCPUMemNetOnJava">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/GetCPUMemNetOnJava-master/nativebin" />
+      <root url="file://$USER_HOME$/Downloads/GetCPUMemNetOnJava-master/nativebin" />
+      <root url="file://$USER_HOME$/Downloads/GetCPUMemNetOnJava-master/nativebin" />
+      <root url="file://$USER_HOME$/Downloads/GetCPUMemNetOnJava-master/nativebin" />
+      <root url="file://$USER_HOME$/Downloads/GetCPUMemNetOnJava-master/nativebin" />
+      <root url="file://$USER_HOME$/Downloads/GetCPUMemNetOnJava-master/nativebin" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/GetCPUMemNetOnJava-master/GetCPUMemNetOnJava-master/src" />
+    </SOURCES>
+  </library>
+</component>

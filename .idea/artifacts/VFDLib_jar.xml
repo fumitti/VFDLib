@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VFDLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VFDLib_jar</output-path>
+    <root id="archive" name="VFDLib.jar">
+      <element id="module-output" name="VFDLib" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Apache Commons/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/icu4j-55_1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/httpcomponents-client-4.4.1-osgi-bin/httpcomponents-client-4.4.1/org.apache.httpcomponents.httpclient_4.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/twitter4j-4.0.4-SNAPSHOT/lib/twitter4j-async-4.0.4-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/twitter4j-4.0.4-SNAPSHOT/lib/twitter4j-core-4.0.4-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/twitter4j-4.0.4-SNAPSHOT/lib/twitter4j-media-support-4.0.4-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/twitter4j-4.0.4-SNAPSHOT/lib/twitter4j-stream-4.0.4-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/httpcomponents-core-4.4.1-osgi-bin/httpcomponents-core-4.4.1/org.apache.httpcomponents.httpcore_4.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mfz-rxtx-2.2-20081207-win-x64/mfz-rxtx-2.2-20081207-win-x64/RXTXcomm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsoup-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.35.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
